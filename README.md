@@ -2,4 +2,6 @@
 
 ### dynamic program
 
-+ Generate-Parentheses
++ Generate Parentheses
++ Jump Game
++ Jump Game II
