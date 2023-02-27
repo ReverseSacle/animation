@@ -5,3 +5,5 @@
 + Generate Parentheses
 + Jump Game
 + Jump Game II
++ Minimum Size Subarray Sum
++ Longest Palindromic Substring
