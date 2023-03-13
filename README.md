@@ -1,16 +1,26 @@
-## animation for sloving problem
+## Animation For Sloving Problem
 
-### dynamic program
+### Dynamic Program
 
 + Generate Parentheses
 + Jump Game
 + Jump Game II
-+ Minimum Size Subarray Sum
 + Longest Palindromic Substring
 + Unique Paths
 + Unique Paths II
 + Maximum Subarray
 + Minimum Path-Sum
-
 + Triangle
++ Interleaving String
+
+
+
+### Two Pointer
+
++ Minimum Size Subarray Sum
+
+
+
+### String
+
 + Count and Say
